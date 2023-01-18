@@ -14,3 +14,6 @@ def test_square():
 
 def test_quality():
     assert 10 == 10
+
+def o_test():
+    print("test")
