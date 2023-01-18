@@ -7,4 +7,7 @@
 .idea/NewRepo.iml
 /tenv
 /env
-One/
+One/.pytest_cache
+One/__pycache__/__init__.cpython-310.pyc
+One/__pycache__/First.cpython-310-pytest-7.2.1.pyc
+One/__pycache__/Second.cpython-310-pytest-7.2.1.pyc
