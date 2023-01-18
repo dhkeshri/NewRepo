@@ -1,7 +1,7 @@
 
 pipeline
 {
-    agent ("Slave Node")
+    agent "Slave Node"
     stages
     {
         stage('Full Flows')
