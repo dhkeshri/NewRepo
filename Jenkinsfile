@@ -11,11 +11,11 @@ pipeline
                 parallel(
                           first:
                           {
-                            bat ''
+                            bat 'pytest .\\One\\First.py'
                           },
                           second:
                           {
-                            bat 'pytest .\\Pytest\\Second.py'
+                            bat 'pytest .\\One\\Second.py'
                           }
                       )
              }
